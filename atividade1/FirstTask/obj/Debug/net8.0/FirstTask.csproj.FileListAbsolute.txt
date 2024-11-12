@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\bin\Debug\net8.0\FirstTask.exe
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\bin\Debug\net8.0\FirstTask.deps.json
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\bin\Debug\net8.0\FirstTask.runtimeconfig.json
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\bin\Debug\net8.0\FirstTask.dll
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\bin\Debug\net8.0\FirstTask.pdb
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\obj\Debug\net8.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfo.cs
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\obj\Debug\net8.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\obj\Debug\net8.0\FirstTask.dll
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\obj\Debug\net8.0\refint\FirstTask.dll
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\obj\Debug\net8.0\FirstTask.pdb
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\obj\Debug\net8.0\FirstTask.genruntimeconfig.cache
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividade1\FirstTask\obj\Debug\net8.0\ref\FirstTask.dll

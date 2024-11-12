@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "FirstTask.sln"
+    //"csharp.debug.console": "externalTerminal"
+}
