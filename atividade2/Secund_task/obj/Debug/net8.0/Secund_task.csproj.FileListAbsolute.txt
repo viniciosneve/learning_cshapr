@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\bin\Debug\net8.0\Secund_task.exe
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\bin\Debug\net8.0\Secund_task.deps.json
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\bin\Debug\net8.0\Secund_task.runtimeconfig.json
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\bin\Debug\net8.0\Secund_task.dll
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\bin\Debug\net8.0\Secund_task.pdb
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\obj\Debug\net8.0\Secund_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\obj\Debug\net8.0\Secund_task.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\obj\Debug\net8.0\Secund_task.AssemblyInfo.cs
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\obj\Debug\net8.0\Secund_task.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\obj\Debug\net8.0\Secund_task.sourcelink.json
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\obj\Debug\net8.0\Secund_task.dll
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\obj\Debug\net8.0\refint\Secund_task.dll
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\obj\Debug\net8.0\Secund_task.pdb
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\obj\Debug\net8.0\Secund_task.genruntimeconfig.cache
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade2\Secund_task\obj\Debug\net8.0\ref\Secund_task.dll
