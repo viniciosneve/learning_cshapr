@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\bin\Debug\net8.0\Atividade16.exe
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\bin\Debug\net8.0\Atividade16.deps.json
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\bin\Debug\net8.0\Atividade16.runtimeconfig.json
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\bin\Debug\net8.0\Atividade16.dll
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\bin\Debug\net8.0\Atividade16.pdb
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\obj\Debug\net8.0\Atividade16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\obj\Debug\net8.0\Atividade16.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\obj\Debug\net8.0\Atividade16.AssemblyInfo.cs
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\obj\Debug\net8.0\Atividade16.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\obj\Debug\net8.0\Atividade16.sourcelink.json
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\obj\Debug\net8.0\Atividade16.dll
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\obj\Debug\net8.0\refint\Atividade16.dll
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\obj\Debug\net8.0\Atividade16.pdb
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\obj\Debug\net8.0\Atividade16.genruntimeconfig.cache
+C:\Users\vinic\Desktop\codigos\conteudo_aprendizado\aprendizado_C#\atividades\learning_cshapr\atividade16\Atividade16\obj\Debug\net8.0\ref\Atividade16.dll
